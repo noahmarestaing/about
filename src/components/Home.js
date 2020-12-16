@@ -4,7 +4,7 @@ import './css/Shared.css'
 import { TopBar } from './parts/TopBar'
 import VRIcon from './assets/vr.svg'
 import { TriviaGame } from './parts/TriviaGame'
-import CombinedGIF from './assets/combined.gif'
+import CombinedGIF from './assets/echo.gif'
 export function Home () {
     
     return (
