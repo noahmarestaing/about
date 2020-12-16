@@ -20,7 +20,7 @@ export function Home () {
                 </div> */}
 
                 <div id="BackgroundVideo">  
-                    <img src={CombinedGIF} width='100%' height='100%' alt="video gif" style={{opacity: "75%"}}></img>
+                    <img src={CombinedGIF} width='100%' height='100%' alt="video gif"></img>
                     {/* <img src={ocean} width='100%' height='100%'></img> */}
                     
                     <div className="triangle"></div>
