@@ -37,8 +37,9 @@ export function Navigation () {
         else {
             return (
                 <div>
-                    <Aria/>
+                    
                     <Home/>
+                    <Aria/>
                     <Echo/>
                     <StarCrossed/>
                     <DrumMachine/>
