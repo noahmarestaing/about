@@ -1,0 +1,23 @@
+#TopBarBackground {
+    text-align: center;
+    position: static;
+    width: 100vw;
+    height: 8vh;
+    background: rgb(192,183,248);
+    
+}
+
+#TopBarOption {
+    display: inline-block;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    margin-top: 1vh;
+    font-size: 4vh;
+    font-weight: bold;
+    color: rgb(240,240,240);
+    cursor: pointer;
+}
+#TopBarOption:hover {
+    transition: color .5s ease;
+    color: rgb(255, 245, 112);
+}

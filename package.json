@@ -1,8 +1,8 @@
 {
-  "name": "about",
+  "name": "info",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://noahmarestaing.github.io/about",
+  "homepage": "http://noahmarestaing.github.io/info",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
