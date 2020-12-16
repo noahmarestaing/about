@@ -5,6 +5,7 @@ import { TriviaGame } from './parts/TriviaGame';
 import { TopBar } from './parts/TopBar';
 import { StarCrossed } from './parts/StarCrossed';
 import { Echo } from './parts/Echo';
+import { Aria } from './parts/Aria';
 import { DrumMachine } from './parts/DrumMachine';
 import './css/Shared.css';
 import { OtherProjects } from './parts/OtherProjects';
@@ -36,6 +37,7 @@ export function Navigation () {
         else {
             return (
                 <div>
+                    <Aria/>
                     <Home/>
                     <Echo/>
                     <StarCrossed/>
