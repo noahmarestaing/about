@@ -1,27 +1,30 @@
 {
   "files": {
-    "main.css": "/info/static/css/main.1098828e.chunk.css",
-    "main.js": "/info/static/js/main.d587e605.chunk.js",
-    "main.js.map": "/info/static/js/main.d587e605.chunk.js.map",
+    "main.css": "/info/static/css/main.e3fb6521.chunk.css",
+    "main.js": "/info/static/js/main.0cdd4300.chunk.js",
+    "main.js.map": "/info/static/js/main.0cdd4300.chunk.js.map",
     "runtime-main.js": "/info/static/js/runtime-main.6e842b75.js",
     "runtime-main.js.map": "/info/static/js/runtime-main.6e842b75.js.map",
-    "static/js/2.c851bcc7.chunk.js": "/info/static/js/2.c851bcc7.chunk.js",
-    "static/js/2.c851bcc7.chunk.js.map": "/info/static/js/2.c851bcc7.chunk.js.map",
+    "static/js/2.8c0a0919.chunk.js": "/info/static/js/2.8c0a0919.chunk.js",
+    "static/js/2.8c0a0919.chunk.js.map": "/info/static/js/2.8c0a0919.chunk.js.map",
     "index.html": "/info/index.html",
-    "precache-manifest.5f9c2ef776c772efbc0af54619539acf.js": "/info/precache-manifest.5f9c2ef776c772efbc0af54619539acf.js",
+    "precache-manifest.c66a01ad4adb9a7ae67e7e2c59c9f5de.js": "/info/precache-manifest.c66a01ad4adb9a7ae67e7e2c59c9f5de.js",
     "service-worker.js": "/info/service-worker.js",
-    "static/css/main.1098828e.chunk.css.map": "/info/static/css/main.1098828e.chunk.css.map",
-    "static/js/2.c851bcc7.chunk.js.LICENSE.txt": "/info/static/js/2.c851bcc7.chunk.js.LICENSE.txt",
+    "static/css/main.e3fb6521.chunk.css.map": "/info/static/css/main.e3fb6521.chunk.css.map",
+    "static/js/2.8c0a0919.chunk.js.LICENSE.txt": "/info/static/js/2.8c0a0919.chunk.js.LICENSE.txt",
+    "static/media/combined.gif": "/info/static/media/combined.f136b46b.gif",
     "static/media/drumMachine.jpg": "/info/static/media/drumMachine.7619b9fe.jpg",
+    "static/media/echo.gif": "/info/static/media/echo.6927a742.gif",
     "static/media/logo.svg": "/info/static/media/logo.5d5d9eef.svg",
     "static/media/pinkClouds.png": "/info/static/media/pinkClouds.05c2ca5d.png",
+    "static/media/star.gif": "/info/static/media/star.561b00b9.gif",
     "static/media/vr.svg": "/info/static/media/vr.35a13f32.svg",
     "static/media/vrImage.png": "/info/static/media/vrImage.2f338c67.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6e842b75.js",
-    "static/js/2.c851bcc7.chunk.js",
-    "static/css/main.1098828e.chunk.css",
-    "static/js/main.d587e605.chunk.js"
+    "static/js/2.8c0a0919.chunk.js",
+    "static/css/main.e3fb6521.chunk.css",
+    "static/js/main.0cdd4300.chunk.js"
   ]
 }
