@@ -141,7 +141,6 @@
     position: relative;
     width: 100vw;
     height: 100vh;
-    
 
 }
 
@@ -159,12 +158,11 @@
     /* color: rgb(163, 148, 255); */
     color: black;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    opacity: 100% !important;
 }
 
 .triangle {
     
-    border-bottom: 101vh solid rgb(210, 203, 255);;
+    border-bottom: 101vh solid rgb(197, 188, 255);;
     border-left: 100vw solid transparent;
     background: none;
     position: absolute;
