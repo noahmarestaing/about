@@ -141,7 +141,6 @@
     position: relative;
     width: 100vw;
     height: 100vh;
-    opacity: 75%;
     
 
 }
@@ -165,7 +164,7 @@
 
 .triangle {
     
-    border-bottom: 101vh solid rgb(197, 188, 255);;
+    border-bottom: 101vh solid rgb(210, 203, 255);;
     border-left: 100vw solid transparent;
     background: none;
     position: absolute;
