@@ -142,7 +142,6 @@
     width: 100vw;
     height: 100vh;
     opacity: 75%;
-    overflow: hidden;
     
 
 }
@@ -164,8 +163,7 @@
 }
 
 .triangle {
-    width: 0vw;
-    height: 0vh;
+    
     border-bottom: 101vh solid rgb(197, 188, 255);;
     border-left: 100vw solid transparent;
     background: none;
