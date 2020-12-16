@@ -4,7 +4,7 @@ import './css/Shared.css'
 import { TopBar } from './parts/TopBar'
 import VRIcon from './assets/vr.svg'
 import { TriviaGame } from './parts/TriviaGame'
-import CombinedGIF from './assets/echo.gif'
+import CombinedGIF from './assets/combined2.gif'
 export function Home () {
     
     return (
@@ -20,7 +20,7 @@ export function Home () {
                 </div> */}
 
                 <div id="BackgroundVideo">  
-                    <img style={{position: "relative", left: "0px"}}src={CombinedGIF} frameborder='0' width='100%' height='100%'></img>
+                    <img src={CombinedGIF} width='100%' height='100%'></img>
                     
                     <div className="triangle"></div>
                     <div id="HomeText">
