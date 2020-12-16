@@ -20,7 +20,8 @@ export function Home () {
                 </div> */}
 
                 <div id="BackgroundVideo">  
-                    <img style={{position: "relative", left: "0px"}}src={CombinedGIF} frameborder='0' scrolling='no' width='100%' height='100%'></img>
+                    <img style={{position: "relative", left: "0px"}}src={CombinedGIF} frameborder='0' width='100%' height='100%'></img>
+                    
                     <div className="triangle"></div>
                     <div id="HomeText">
                         I'm a programmer and musician currently based in Seattle. I graduated from UCR in 2019 with a 
