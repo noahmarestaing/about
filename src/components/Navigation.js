@@ -42,6 +42,7 @@ export function Navigation () {
                     <Aria/>
                     <Echo/>
                     <StarCrossed/>
+                    <TriviaGame/>
                     <DrumMachine/>
                     {/* <StarCrossed/>
                     <TriviaGame/>

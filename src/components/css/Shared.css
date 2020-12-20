@@ -153,11 +153,11 @@
     left: 32vw;
     padding: 4vh;
     border-radius: 5px;
-    background: white;
+    /* background: white; */
     font-weight: bold;
     /* color: rgb(163, 148, 255); */
-    color: black;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    color: white;
+    /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
     
 }
 
